@@ -1,0 +1,10 @@
+{
+  "records": 200,
+  "reply_quality": 3.75,
+  "reply_quality_scored_records": 200,
+  "grounding_evidence_correctness": 3.88,
+  "grounding_evidence_correctness_scored_records": 200,
+  "agreement_records": 40,
+  "exact_agreement": 0.7,
+  "within_one_agreement": 1.0
+}

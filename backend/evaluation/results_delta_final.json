@@ -1,0 +1,29 @@
+{
+  "records": 200,
+  "classifiers": {
+    "majority": {
+      "intent_accuracy": 0.13,
+      "intent_macro_f1": 0.005001923816852636
+    },
+    "rules": {
+      "intent_accuracy": 0.03,
+      "intent_macro_f1": 0.010033444816053512
+    }
+  },
+  "rule_escalation": {
+    "escalation_precision": 0.20422535211267606,
+    "escalation_recall": 0.7435897435897436
+  },
+  "reply_quality": {
+    "records": 200,
+    "reply_quality": null,
+    "reply_quality_scored_records": 0,
+    "grounding_evidence_correctness": null,
+    "grounding_evidence_correctness_scored_records": 0
+  },
+  "judge_agreement": {
+    "agreement_records": 0,
+    "exact_agreement": null,
+    "within_one_agreement": null
+  }
+}
