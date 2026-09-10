@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+backend/data/raw/*
+backend/data/chroma/
+backend/data/*.parquet
+backend/data/*.csv
+backend/data/*.json
+!backend/data/.gitkeep
