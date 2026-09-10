@@ -1,6 +1,6 @@
 # Delta Customer Support Agent
 
-An evaluated AI customer-support agent built for the Hiver SDE Intern take-home assignment. The system uses historical Customer Support on Twitter conversations to classify intent, retrieve similar resolutions, draft a grounded response with Ollama, and decide whether to auto-handle or escalate.
+An evaluated AI customer-support agent. The system uses historical Customer Support on Twitter conversations to classify intent, retrieve similar resolutions, draft a grounded response with Ollama, and decide whether to auto-handle or escalate.
 
 ## What It Does
 
